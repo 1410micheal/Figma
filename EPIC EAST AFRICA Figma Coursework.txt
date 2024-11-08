@@ -1,0 +1,25 @@
+EPIC EAST AFRICA
+
+
+1. Low Fidelity Prototype and High Fidelity Prototype. 
+A Low Fidelity Prototype is a rough, basic representation of a product or idea used early in the design process to test core concepts, while a High Fidelity Prototype is a detailed, refined representation used later in the process to test and refine the user experience.
+1.0.	 Introduction
+Epic East Africa is a website where you can explore some of the most beautiful places in East Africa. From mountains and rivers to lakes and game parks, this site showcases top destinations across the region. Whether you’re looking for travel ideas or just want to see what East Africa has to offer, Epic East Africa makes it easy to browse, learn, and get inspired for your next adventure.
+
+In the high-fidelity prototype of Epic East Africa, I implemented a functional navigation system with added interactions and smooth transitions. The sidebar provides easy access to the main sections—Home, Destinations, and Contact. By connecting each link to the relevant page, I created a seamless browsing experience.
+When you click on any sidebar link, actions and transitions take you smoothly to the corresponding page, such as Home for the main gallery, Destinations for detailed travel spots, or Contact to reach out. This setup helps users move naturally through the site, making navigation quicker and the user experience smoother.
+
+Components:
+
+2.1. Navigation Sidebar
+Navigate through the site using the links here. Go back to Home to see popular places, explore Destinations for a wider look at what East Africa has to offer, or visit Contact if you’d like to reach out.
+2.2.	  Home Page
+This is where you can start exploring some of the most popular places in East Africa. The gallery shows top spots, and the search bar makes it easy to find specific places. Get ready to discover East Africa’s amazing landscapes!
+2.3. Destinations Page
+Find details on the best places to visit in East Africa. Use the search bar to look up any place by name, or filter by All or Favorites to see what you’re most interested in. This page is here to help you find your next destination in East Africa.
+
+2.4. Contact Page
+Got questions or feedback? Reach out to us! Just fill out your name, email, and message, and hit Submit to get in touch.
+
+Below is the link to the fully working prototype:
+Fully Working Prototype
